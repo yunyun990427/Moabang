@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=모여방&animation=&fontColor=ffffff&fontSize=50" /></div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=모여방&animation=&fontColor=ffffff&fontSize=50" />
+</div>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -12,7 +13,8 @@
         <br/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
-    </div></div>
+    </div>
+</div>
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
@@ -25,31 +27,37 @@
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Project Overview </h2> <br>
-    <div style="text-align: left; max-width: 800px; margin: 0 auto; padding: 20px; border: 1px solid #d8dee4; border-radius: 8px;">
-        <h3>프로젝트 주제</h3>
-        <p>한눈에 볼 수 있는 집 구하기</p>
+    <div style="display: flex; flex-wrap: wrap; max-width: 1200px; margin: 0 auto; border-collapse: collapse;">
+        <div style="flex: 1; min-width: 300px; padding: 20px; border: 1px solid #d8dee4; border-radius: 8px; margin: 10px; background-color: #f9f9f9;">
+            <h3>Project Topic</h3>
+            <p>Finding a house at a glance</p>
+            <h3>Purpose and Goals</h3>
+            <p>The goal is to enable many people, including those new to society, to check a certified copy of the register on the site in order to prevent damage caused by jeonse fraud.</p>
+        </div>
+        
+        <div style="flex: 1; min-width: 300px; padding: 20px; border: 1px solid #d8dee4; border-radius: 8px; margin: 10px; background-color: #f9f9f9;">
+            <h3>Technical Architecture</h3>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>JQuery</li>
+            </ul>
 
-        <h3>목적과 목표</h3>
-        <p>사회 초년생을 포함한 많은 사람들이 전세 사기로 인한 피해를 미리 예방하고자 사이트에서 등기부등본까지 확인이 가능하게 하는 것이 목표입니다.</p>
+            <h3>Key Features & Technologies</h3>
+            <ul>
+                <li>Use Kakao Map API</li>
+                <li>Click on the photo to go to the map screen</li>
+                <li>Click on the marker on the photo to display detailed information about the photo</li>
+            </ul>
+        </div>
+        
+        <div style="flex: 1; min-width: 300px; padding: 20px; border: 1px solid #d8dee4; border-radius: 8px; margin: 10px; background-color: #f9f9f9;">
+            <h3>Role and Contribution</h3>
+            <p>Design and execution of the overall project</p>
 
-        <h3>기술 아키텍처</h3>
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>JQuery</li>
-        </ul>
-
-        <h3>주요 기능 & 기술</h3>
-        <ul>
-            <li>카카오 지도 API 사용</li>
-            <li>사진 클릭 시 지도 화면으로 넘어감</li>
-            <li>사진 위의 마커를 클릭 시 해당 사진의 상세 정보 표시</li>
-        </ul>
-
-        <h3>역할과 기여</h3>
-        <p>전체적인 프로젝트의 설계 및 수행</p>
-
-        <h3>산출물</h3>
-        <p>포트폴리오 파일 첨부</p>
-    </div></div>
+            <h3>Output</h3>
+            <p>Attach portfolio file</p>
+        </div>
+    </div>
+</div>
