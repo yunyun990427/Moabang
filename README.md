@@ -25,39 +25,4 @@
     </div>  
 </div>
 
-<div align="center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Project Overview </h2> <br>
-    <div style="display: flex; flex-wrap: wrap; max-width: 1200px; margin: 0 auto; border-collapse: collapse;">
-        <div style="flex: 1; min-width: 300px; padding: 20px; border: 1px solid #d8dee4; border-radius: 8px; margin: 10px; background-color: #f9f9f9;">
-            <h3>Project Topic</h3>
-            <p>Finding a house at a glance</p>
-            <h3>Purpose and Goals</h3>
-            <p>The goal is to enable many people, including those new to society, to check a certified copy of the register on the site in order to prevent damage caused by jeonse fraud.</p>
-        </div>
-        
-        <div style="flex: 1; min-width: 300px; padding: 20px; border: 1px solid #d8dee4; border-radius: 8px; margin: 10px; background-color: #f9f9f9;">
-            <h3>Technical Architecture</h3>
-            <ul>
-                <li>HTML</li>
-                <li>CSS</li>
-                <li>JavaScript</li>
-                <li>JQuery</li>
-            </ul>
 
-            <h3>Key Features & Technologies</h3>
-            <ul>
-                <li>Use Kakao Map API</li>
-                <li>Click on the photo to go to the map screen</li>
-                <li>Click on the marker on the photo to display detailed information about the photo</li>
-            </ul>
-        </div>
-        
-        <div style="flex: 1; min-width: 300px; padding: 20px; border: 1px solid #d8dee4; border-radius: 8px; margin: 10px; background-color: #f9f9f9;">
-            <h3>Role and Contribution</h3>
-            <p>Design and execution of the overall project</p>
-
-            <h3>Output</h3>
-            <p>Attach portfolio file</p>
-        </div>
-    </div>
-</div>
