@@ -25,8 +25,16 @@
     </div>  
 </div>
 <div>
-    <h2>사회 초년생을 포함한 많은 사람들이 전세 사기로 인한 피해를 미리 예방하고자 사이트에서
-등기부등본까지 확인이 가능하게 하는 것이 목표입니다. </h2>
+    <h3>사회 초년생을 포함한 많은 사람들이 전세 사기로 인한 피해를 미리 예방하고자 사이트에서
+        등기부등본까지 확인이 가능하게 하는 것이 목표입니다. </h3>
+</div>
+<div>
+    <h3>사용 기술</h3>
+     <img src="https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jQuery&logoColor=white">
+     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white">
+    [세미프로젝트.pdf](https://github.com/user-attachments/files/16554597/default.pdf)
+
 </div>
 
 
